@@ -2,4 +2,5 @@
 *
 
 !.gitignore
+!sourcecfg.xml
 !game/csgo/cfg/autoexec.cfg
